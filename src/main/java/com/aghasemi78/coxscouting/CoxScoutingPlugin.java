@@ -23,7 +23,7 @@ import net.runelite.client.events.PluginChanged;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 
-import net.runelite.client.plugins.coxscouting.CoxScoutingConfig.RoomCount;
+import com.aghasemi78.coxscouting.CoxScoutingConfig.RoomCount;
 import net.runelite.client.plugins.raids.Raid;
 import net.runelite.client.plugins.raids.RaidsPlugin;
 import net.runelite.client.plugins.raids.RaidRoom;

@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.coxscouting;
+package com.datbear.coxscouting;
 
 public enum RaidStartOrder
 {

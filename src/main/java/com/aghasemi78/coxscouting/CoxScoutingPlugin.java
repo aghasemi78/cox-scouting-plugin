@@ -1,4 +1,4 @@
-package com.aghasemi78.cox-scouting;
+package com.aghasemi78.coxscouting;
 
 import com.google.inject.Provides;
 import java.util.ArrayList;

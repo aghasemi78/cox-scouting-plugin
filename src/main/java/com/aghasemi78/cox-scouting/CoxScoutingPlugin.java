@@ -1,4 +1,4 @@
-package com.datbear.coxscouting;
+package com.aghasemi78.cox-scouting;
 
 import com.google.inject.Provides;
 import java.util.ArrayList;

@@ -34,8 +34,7 @@ import net.runelite.client.plugins.raids.events.RaidScouted;
 @PluginDescriptor(
         name = "Cox Scouting",
         description = "Helps with scouting for raids with specific rooms by disabling reload option when a desirable layout is found",
-        tags = {"raid", "cox", "layout"},
-        enabledByDefault = false
+        tags = {"raid", "cox", "layout"}
 )
 public class CoxScoutingPlugin extends Plugin
 {

@@ -1,4 +1,4 @@
-package com.aghasemi78.cox-scouting;
+package com.aghasemi78.coxscouting;
 
 import net.runelite.client.config.*;
 

@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.coxscouting;
+package com.datbear.coxscouting;
 
 import com.google.inject.Provides;
 import java.util.ArrayList;
